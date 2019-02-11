@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "803980836061",
+    "firebase_url": "https://smartrec-db.firebaseio.com",
+    "project_id": "smartrec-db",
+    "storage_bucket": "smartrec-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803980836061:android:7cff8de8ef228458",
+        "android_client_info": {
+          "package_name": "app.com.smartrec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803980836061-m2aqvdnnfdctprv4nr311q5arbcuflc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_56UNQWL7J_4Oxu4_9c88GDm7GvUKdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
